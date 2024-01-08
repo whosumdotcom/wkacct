@@ -1,2 +1,17 @@
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9r9HYFxEQOBXSopFS61ZWg          // @MeidasTouch
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpYCxV51bykhMY-wSUozQRg          // @TheLincolnProject
+https://www.youtube.com/feeds/videos.xml?channel_id=UCh6GrMUsjv3-LQ3z93OLznA          // @ElevenFilms
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0VTA6PQH7nKKgRO8ptMatQ          // @PoliticsGirl
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrWmonkmTk5NbvmVnc7f70w          // @GlennKirschner2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQANb2YPwAtK-IQJrLaaUFw          // @briantylercohen
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYxRlFDqcWM4y7FfpiAN3KQ          // @WhiteHouse
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0BRnRwe7yDZXIaF-QZfvhA          // @thefive-8
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMtFAi84ehTSYSE9XoHefig          // @ColbertLateShow
+https://www.youtube.com/feeds/videos.xml?channel_id=UC068u_QawXOmKYFB56DuhcA          // @MatthewCookeOfficial
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5HJaVyYgo7WPCvIBchRBzQ          // @TheProblemWithJonStewart
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVTyTA7-g9nopHeHbeuvpRA          // @LateNightSeth
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ          // @LastWeekTonight
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpr3mNMkbqfd2E4vTIRVMIg          // @cschecter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkbwLFZhawBqK2b9gW08z3g          // @FIVEMINUTENEWS        // Anthony Davis
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6xzdLy3c0Hcf7N89U_qgQ          // @TheSoupCentral        // Pekka Kallioniemi
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqGakAUEeUuIJY0gRAIrgzA          // @DenverRiggleman-facthunter
