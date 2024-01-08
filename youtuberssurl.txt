@@ -15,3 +15,4 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCpr3mNMkbqfd2E4vTIRVMIg    
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkbwLFZhawBqK2b9gW08z3g          // @FIVEMINUTENEWS        // Anthony Davis
 https://www.youtube.com/feeds/videos.xml?channel_id=UCs6xzdLy3c0Hcf7N89U_qgQ          // @TheSoupCentral        // Pekka Kallioniemi
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqGakAUEeUuIJY0gRAIrgzA          // @DenverRiggleman-facthunter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCz5A-aGaSZ4Ws9mLLXVsJIQ          // @radicalizedpod
