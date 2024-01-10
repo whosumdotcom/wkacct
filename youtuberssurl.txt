@@ -17,3 +17,4 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCs6xzdLy3c0Hcf7N89U_qgQ    
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqGakAUEeUuIJY0gRAIrgzA          // @DenverRiggleman-facthunter
 https://www.youtube.com/feeds/videos.xml?channel_id=UCz5A-aGaSZ4Ws9mLLXVsJIQ          // @radicalizedpod
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJcWDNh9E6AoVW4nsMXyVCw          // @molly0xfff            // Molly White
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTFjmvpWb_gfIAFsEZqD3NQ          // @@Politicon
