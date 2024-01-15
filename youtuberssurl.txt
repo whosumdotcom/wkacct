@@ -20,3 +20,4 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCJcWDNh9E6AoVW4nsMXyVCw    
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTFjmvpWb_gfIAFsEZqD3NQ          // @@Politicon
 https://www.youtube.com/feeds/videos.xml?channel_id=UCbjBOso0vpWgDht9dPIVwhQ          // @thomhartmann
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTcCX_XY4l-W2ba5IxIRhsg          // @tpmtv
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxzAFnS3G-yqKlnwkmdjKBg          // @deepstateradio
